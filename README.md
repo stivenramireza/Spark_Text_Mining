@@ -1,4 +1,4 @@
-# Proyecto 2 - Motion Vectors Algorithm
+# Proyecto 3 (Big Data) - Minería de Texto con Spark
 
     Stiven Ramírez Arango - sramir70@eafit.edu.co
     Sebastián Ospina Cabarcas - sospin26@eafit.edu.co
