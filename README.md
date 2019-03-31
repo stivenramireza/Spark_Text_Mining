@@ -1,3 +1,25 @@
-# Spark Text Mining
+# Proyecto 2 - Motion Vectors Algorithm
 
-Big data processing of news with Text Mining in Apache Spark through 3 fundamental processes: data preparation, searching based on the inverted index and grouping of news by similarity.
+    Stiven Ramírez Arango - sramir70@eafit.edu.co
+    Sebastián Ospina Cabarcas - sospin26@eafit.edu.co
+    Camilo Suaza Gallego - csuazag@eafit.edu.co
+
+# 1. Diseño
+
+* [Diseño](diseno.md)
+
+# 2. Desarrollo
+
+* [Desarrollo](desarrollo.md)
+
+# 3. Pruebas
+
+* [Pruebas](pruebas.md)
+
+# 4. Instalación
+
+* [Instalación](instalacion.md)
+
+# 5. Ejecución
+
+* [Ejecución](ejecucion.md)
