@@ -16,8 +16,9 @@ En este proyecto se pretende afianzar el uso de **Apache Spark** como framework 
 # Metodología CRISP-DM
 
 Este proyecto de Big Data Analytics fue desarrollado bajo la metodología CRISP-DM (Cross Industry Standard Process for Data Mining).  
-
-![Metodología CRISP-DM](https://www.researchgate.net/profile/Vernon_Dsouza/publication/326235288/figure/fig1/AS:645518493495296@1530915010595/CRISP-DM-Model-Taylor-2017.png)
+<p align="center">
+<img src="https://www.researchgate.net/profile/Vernon_Dsouza/publication/326235288/figure/fig1/AS:645518493495296@1530915010595/CRISP-DM-Model-Taylor-2017.png">
+</p>
 
 - Las flechas en el diagrama indican las dependencias más importantes y frecuentes entre fases. 
 - El círculo exterior en el diagrama simboliza la naturaleza cíclica de la minería de datos en sí. 
