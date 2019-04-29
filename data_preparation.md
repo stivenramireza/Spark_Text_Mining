@@ -6,22 +6,23 @@
 
 # Preparación de Datos
 
+En esta parte las noticias son pre-procesadas para preparar los datos que se van a tener en cuenta para la analítica, y para ello se remueven los caracteres especiales, los stop-word (en inglés) y las palabras de longitud 1.
+
 ## 1. Diseño
 
-* [Diseño](diseno.md)
+
 
 ## 2. Desarrollo
 
-* [Desarrollo](desarrollo.md)
+
 
 ## 3. Pruebas
 
-* [Pruebas](pruebas.md)
+
 
 ## 4. Instalación
 
-* [Instalación](instalacion.md)
+
 
 ## 5. Ejecución
 
-* [Ejecución](ejecucion.md)
