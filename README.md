@@ -16,7 +16,7 @@ La minería de texto (Text Mining) permite transformar el texto en una forma est
 
 # 2. Búsqueda con base en el Índice Invertido
 
-* [Búsqueda con base en el Índice Invertido](data_preparation.md)
+* [Búsqueda con base en el Índice Invertido](inverted_index.md)
 
 # 3. Clustering de Noticias
 
