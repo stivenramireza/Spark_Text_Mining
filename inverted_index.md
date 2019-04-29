@@ -4,7 +4,7 @@
     Sebastián Ospina Cabarcas - sospin26@eafit.edu.co
     Camilo Suaza Gallego - csuazag@eafit.edu.co
 
-# Preparación de Datos
+# Búsqueda con base en el Índice Invertido
 
 ## 1. Diseño
 

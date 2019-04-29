@@ -1,25 +1,23 @@
-# Proyecto 3 (Big Data) - Minería de Texto con Spark
+# Proyecto 3 (Big Data) - Minería de Texto con Spark (Procesamiento de Noticias)
 
     Stiven Ramírez Arango - sramir70@eafit.edu.co
     Sebastián Ospina Cabarcas - sospin26@eafit.edu.co
     Camilo Suaza Gallego - csuazag@eafit.edu.co
 
-# 1. Diseño
+# ¿Qué es la minería o analítica de texto?
 
-* [Diseño](diseno.md)
+La minería o analítica de texto, son un conjunto de modelos, técnicas, algoritmos y tecnologías que permiten procesar texto de naturaleza **NO ESTRUCTURADA**.
 
-# 2. Desarrollo
+La minería de texto (Text Mining) permite transformar el texto en una forma estructurada, de tal forma que facilite una serie de aplicaciones como búsqueda en texto, relevancia de documentos, entendimiento natural del lenguaje (NLP), traducción automática entre idiomas, análisis de sentimientos, detección de tópicos entre muchas otras aplicaciones.
 
-* [Desarrollo] (desarrollo.md)
+# 1. Preparación de Datos
 
-# 3. Pruebas
+* [Preparación de Datos](data_preparation.md)
 
-* [Pruebas](pruebas.md)
+# 2. Búsqueda con base en el Índice Invertido
 
-# 4. Instalación
+* [Búsqueda con base en el Índice Invertido](data_preparation.md)
 
-* [Instalación](instalacion.md)
+# 3. Clustering de Noticias
 
-# 5. Ejecución
-
-* [Ejecución](ejecucion.md)
+* [Clustering de Noticias](news_clustering.md)

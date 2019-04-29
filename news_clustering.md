@@ -4,7 +4,7 @@
     Sebastián Ospina Cabarcas - sospin26@eafit.edu.co
     Camilo Suaza Gallego - csuazag@eafit.edu.co
 
-# Preparación de Datos
+# Clustering de Noticias
 
 ## 1. Diseño
 
