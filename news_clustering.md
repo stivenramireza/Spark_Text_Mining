@@ -6,22 +6,23 @@
 
 # Clustering de Noticias
 
+En esta parte final se realiza agrupamiento de noticias utilizando la métrica de similitud **Doc2Vec** que vectoriza las noticias para encontrar las 5 noticias más relacionadas con una noticia en específico.
+
 ## 1. Diseño
 
-* [Diseño](diseno.md)
+
 
 ## 2. Desarrollo
 
-* [Desarrollo](desarrollo.md)
+
 
 ## 3. Pruebas
 
-* [Pruebas](pruebas.md)
+
 
 ## 4. Instalación
 
-* [Instalación](instalacion.md)
+
 
 ## 5. Ejecución
 
-* [Ejecución](ejecucion.md)

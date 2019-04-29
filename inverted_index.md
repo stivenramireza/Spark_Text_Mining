@@ -6,22 +6,23 @@
 
 # Búsqueda con base en el Índice Invertido
 
+En esta parte se busca una palabra en específico en una estructura de datos denominada **índice invertido** y a partir de ésta, se obtienen en orden descendente por frecuencia de palabra, las noticias más relevantes.
+
 ## 1. Diseño
 
-* [Diseño](diseno.md)
+
 
 ## 2. Desarrollo
 
-* [Desarrollo](desarrollo.md)
+
 
 ## 3. Pruebas
 
-* [Pruebas](pruebas.md)
+
 
 ## 4. Instalación
 
-* [Instalación](instalacion.md)
+
 
 ## 5. Ejecución
 
-* [Ejecución](ejecucion.md)
