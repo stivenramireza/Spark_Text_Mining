@@ -6,23 +6,21 @@
 
 # Business Understanding
 
-En esta parte final se realiza agrupamiento de noticias utilizando la métrica de similitud **Doc2Vec** que vectoriza las noticias para encontrar las 5 noticias más relacionadas con una noticia en específico.
+<p align="center"> <img src="http://crisp-dm.eu/wp-content/uploads/2013/03/Business-Understanding.jpg"> </p>
 
-## 1. Diseño
+En esta primera fase se comprende el problema planteado de analítica de datos, aplicando los siguientes lineamientos:
 
+- **Determinar los objetivos del negocio**: 
+	- Solucionar un problema de analítica de datos mediante **Big Data Analytics**.
 
-
-## 2. Desarrollo
-
-
-
-## 3. Pruebas
-
+- **Evaluar la situación**:
+	- Se realiza un inventario de recursos y se determina que **Apache Spark** y **Databricks** son las opciones más acertadas para conseguir los objetivos del negocio.
+	- Los costos no representan un problema, pues **Databricks Community Edition** permite implementar en notebooks durante 14 días de forma gratuita.
 
 
-## 4. Instalación
+- **Determinar los objetivos de la minería de datos**: 
+ 	- Buscar una palabra en un documento de noticias con base en el índice invertido y observar las 5 noticias más relacionadas con dicha palabra.
+	- Buscar una noticia con base en un clustering de documentos y observar las 4 noticias más relacionadas con dicha noticia.
 
-
-
-## 5. Ejecución
-
+- **Producir el plan de proyecto**: 
+	- Se establece un plan que consiste en dividir la implementación de los algoritmos entre los 3 integrantes del proyecto, en donde una persona se encarga de la limpieza de los datos, la otra crea un buscador con base en el índice invertido y la última clusteriza las noticias para encontrar sus similares.
