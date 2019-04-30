@@ -117,7 +117,7 @@ Para llevar a cabo este proceso se debe estar trabajando con las siguientes herr
 - Databricks.
 - Scala.
 
-En general, no hay que instalar programas pues el ambiente de **Databricks** se encuentra en un ambiente **Spark** y permita la implementación en el lenguaje de programación **Scala**.
+En general, no hay que instalar programas pues el notebook de **Databricks** se encuentra en un ambiente **Spark** y permite la implementación en el lenguaje de programación **Scala**.
 
 ## 5. Ejecución
 
