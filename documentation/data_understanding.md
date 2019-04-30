@@ -6,22 +6,17 @@
 
 # Data Understanding
 
+<p align="center"> <img src="http://crisp-dm.eu/wp-content/uploads/2013/03/Data-Understanding.jpg"> </p>
 
-## 1. Diseño
+En esta segunda fase se comprende los datos que serán analizados y para ello se aplican los siguientes lineamientos:
 
+- **Colección inicial de los datos**: Se obtienen los datos del cluster **Hadoop** que se encuentra corriendo en el [DCA de la Universidad EAFIT](https://hdp1.dis.eafit.edu.co/).
 
+- **Describir los datos**: Cada uno de ellos se encuentra en archivos .csv descritos de la forma
+	- id_noticia
+	- título_noticia
+	- contenido_noticia
 
-## 2. Desarrollo
+- **Explorar los datos**: Se observan cada uno de ellos desde una visión holística.
 
-
-
-## 3. Pruebas
-
-
-
-## 4. Instalación
-
-
-
-## 5. Ejecución
-
+- **Verificar la calidad de los datos**: Se verifica que los datos sean consistentes y realmente aporten a la solución del problema.
