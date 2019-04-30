@@ -4,9 +4,8 @@
     Sebastián Ospina Cabarcas - sospin26@eafit.edu.co
     Camilo Suaza Gallego - csuazag@eafit.edu.co
 
-# Business Understanding
+# Evaluation
 
-En esta parte final se realiza agrupamiento de noticias utilizando la métrica de similitud **Doc2Vec** que vectoriza las noticias para encontrar las 5 noticias más relacionadas con una noticia en específico.
 
 ## 1. Diseño
 

@@ -33,20 +33,20 @@ Esta metodología divide el proceso en 6 fases principales:
 
 ## 2. Data Understanding
 
-* [Data Understanding](news_clustering.md)
+* [Data Understanding](./documentation/data_understanding.md)
 
 ## 3. Data Preparation
 
-* [Data Preparation](news_clustering.md)
+* [Data Preparation](./documentation/data_preparation.md)
 
 ## 4. Modeling
 
-* [Modeling](data_preparation.md)
+* [Modeling](./documentation/modeling.md)
 
 ## 5. Evaluation
 
-* [Evaluation](news_clustering.md)
+* [Evaluation](./documentation/evaluation.md)
 
 ## 6. Deployment
 
-* [Deployment](news_clustering.md)
+* [Deployment](./documentation/deployment.md)
