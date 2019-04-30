@@ -11,7 +11,9 @@ La minería o analítica de texto, son un conjunto de modelos, técnicas, algori
 La minería de texto (Text Mining) permite transformar el texto en una forma estructurada, de tal forma que facilite una serie de aplicaciones como búsqueda en texto, relevancia de documentos, entendimiento natural del lenguaje (NLP), traducción automática entre idiomas, análisis de sentimientos, detección de tópicos entre muchas otras aplicaciones.
 
 En este proyecto se pretende afianzar el uso de **Apache Spark** como framework de computación en clúster y **Databricks** como plataforma de análisis unificado para la implementación de estos algoritmos.
-
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwg5mL2LiXqdk24cv-i6-ElTU0ggsuIp1azbamM-hKXTtOPaa">
+</p>
 
 # Metodología CRISP-DM
 
