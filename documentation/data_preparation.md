@@ -124,6 +124,3 @@ En general, no hay que instalar programas pues el notebook de **Databricks** se 
 Basta con hacer click en el botón **Run** donde se encuentra la porción de código que muestra los datos limpios, así:
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/31974084/56939492-49793c00-6ace-11e9-96e2-d1940b360c71.png"> </p>
-
-## 6. Video
-[link](https://drive.google.com/file/d/1xhLoMuZs7Z4egCrR2knEhcNu3ZHUADBR/view?usp=sharing)
