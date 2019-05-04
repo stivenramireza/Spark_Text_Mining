@@ -1,6 +1,6 @@
 # Proyecto 3 (Big Data) - Minería de Texto con Spark
 
-# Integrantes 
+## Integrantes 
 
 - Stiven Ramírez Arango - sramir70@eafit.edu.co
 - Sebastián Ospina Cabarcas - sospin26@eafit.edu.co - Video Sustentación: https://drive.google.com/file/d/1xhLoMuZs7Z4egCrR2knEhcNu3ZHUADBR
