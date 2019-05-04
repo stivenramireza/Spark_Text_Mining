@@ -6,22 +6,17 @@
 
 # Deployment
 
+<p align="center"> <img src="http://crisp-dm.eu/wp-content/uploads/2013/03/Deployment.jpg"> </p>
 
-## 1. Diseño
+En esta última fase se realiza el deployment de los modelos y se obtienen los gráficos esperados tanto para el **índice invertido** como para el **agrupamiento de noticias por similaridad**.
 
+## 1. Índice Invertido
 
-
-## 2. Desarrollo
-
-
-
-## 3. Pruebas
+Para este modelo se obtuvo el siguiente **gráfico**:
 
 
+## 2. Agrupamiento de Noticias por Similaridad
 
-## 4. Instalación
+Para este modelo se obtuvo el siguiente **gráfico**:
 
-
-
-## 5. Ejecución
-
+<p align="center"> <img src="https://irenelizihui.files.wordpress.com/2016/07/13950777_843664199102483_1888567216_o.jpg?w=656"> </p>
