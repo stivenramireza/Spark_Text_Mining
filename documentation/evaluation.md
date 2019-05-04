@@ -6,22 +6,15 @@
 
 # Evaluation
 
+<p align="center"> <img src="http://crisp-dm.eu/wp-content/uploads/2013/03/Evaluation.jpg"> </p>
 
-## 1. Diseño
+En esta quinta fase se realiza la evaluación de los modelos y se obtienen los resultados esperados tanto para el **índice invertido** como para el **agrupamiento de noticias por similaridad**.
 
+## 1. Índice Invertido
 
-
-## 2. Desarrollo
-
-
-
-## 3. Pruebas
+Para este modelo se obtuvo el siguiente resultado:
 
 
+## 2. Agrupamiento de Noticias por Similaridad
 
-## 4. Instalación
-
-
-
-## 5. Ejecución
-
+Para este modelo se obtuvo el siguiente resultado:
