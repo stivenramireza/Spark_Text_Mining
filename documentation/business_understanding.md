@@ -1,8 +1,10 @@
 # Proyecto 3 (Big Data) - Minería de Texto con Spark
 
-    Stiven Ramírez Arango - sramir70@eafit.edu.co
-    Sebastián Ospina Cabarcas - sospin26@eafit.edu.co
-    Camilo Suaza Gallego - csuazag@eafit.edu.co
+## Integrantes 
+
+- Stiven Ramírez Arango - sramir70@eafit.edu.co - Video Sustentación: 
+- Sebastián Ospina Cabarcas - sospin26@eafit.edu.co - Video Sustentación: https://bit.ly/2J00KnF
+- Camilo Suaza Gallego - csuazag@eafit.edu.co - Video Sustentación: https://youtu.be/OR5WCcMA_ls
 
 # Business Understanding
 
