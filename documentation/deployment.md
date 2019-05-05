@@ -16,6 +16,7 @@ En esta última fase se realiza el deployment de los modelos y se obtienen los g
 
 Para este modelo se obtuvo el siguiente **gráfico**:
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/31974084/57198833-3c7ca280-6f3d-11e9-85fb-e42c76e3ae63.png"> </p>
 
 ## 2. Agrupamiento de Noticias por Similaridad
 
