@@ -6,6 +6,10 @@
 - Sebastián Ospina Cabarcas - sospin26@eafit.edu.co - Video Sustentación: https://bit.ly/2J00KnF
 - Camilo Suaza Gallego - csuazag@eafit.edu.co - Video Sustentación: https://youtu.be/OR5WCcMA_ls
 
+## Notebook de Databricks
+
+- Notebook publicado: https://bit.ly/2WqZFbw
+
 # ¿Qué es la minería o analítica de texto?
 
 La minería o analítica de texto, son un conjunto de modelos, técnicas, algoritmos y tecnologías que permiten procesar texto de naturaleza **NO ESTRUCTURADA**.
