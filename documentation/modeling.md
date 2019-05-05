@@ -99,6 +99,10 @@ for i in indice_invertido:
 
 ### 1.3 Pruebas
 
+Se verifica que el índice invertido se haya construído correctamente:
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/31974084/57196989-8c506f00-6f27-11e9-95d2-58a9849096cb.png"> </p>
+
 ### 1.4 Instalación
 
 Para llevar a cabo este proceso se debe estar trabajando con las siguientes herramientas tecnológicas:
@@ -110,6 +114,14 @@ Para llevar a cabo este proceso se debe estar trabajando con las siguientes herr
 En general, no hay que instalar programas pues el notebook de **Databricks** se encuentra en un ambiente **Spark** y permite la implementación en el lenguaje de programación **Python**.
 
 ### 1.5 Ejecución
+
+Se ingresa una palabra por el notebook de **Databricks**:
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/31974084/57197034-f6691400-6f27-11e9-8915-30050026f775.png"> </p>
+
+Y se obtiene el siguiente resultado:
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/31974084/57197057-30d2b100-6f28-11e9-8ea8-1242042042dc.png"> </p>
 
 ## 2. Agrupamiento de Noticias por Similaridad
 
@@ -256,6 +268,10 @@ print("{}, {}, {}".format(ids[indice],tittles[indice],lista_final))
 
 ### 2.3 Pruebas
 
+Se verifica que se haya construído correctamente la estructura para el clustering de noticias:
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/31974084/57197100-bfdfc900-6f28-11e9-8389-03723cfa3caa.png"> </p>
+
 ### 2.4 Instalación
 
 Para llevar a cabo este proceso se debe estar trabajando con las siguientes herramientas tecnológicas:
@@ -267,3 +283,12 @@ Para llevar a cabo este proceso se debe estar trabajando con las siguientes herr
 En general, no hay que instalar programas pues el notebook de **Databricks** se encuentra en un ambiente **Spark** y permite la implementación en el lenguaje de programación **Python**.
 
 ### 2.5 Ejecución
+
+Se ingresa el **id** de la noticia a buscar:
+
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/31974084/57197238-9aec5580-6f2a-11e9-8d73-17997ca5c066.png"> </p>
+
+Y se obtiene el siguiente resultado:
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/31974084/57197317-7644ad80-6f2b-11e9-961a-7a946c6e48a4.png"> </p>
