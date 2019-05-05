@@ -14,9 +14,20 @@ En esta quinta fase se realiza la evaluación de los modelos y se obtienen los r
 
 ## 1. Índice Invertido
 
-Para este modelo se obtuvo el siguiente resultado:
+Se ingresa una palabra por el notebook de **Databricks**:
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/31974084/57197034-f6691400-6f27-11e9-8915-30050026f775.png"> </p>
+
+Y para este modelo se obtiene el siguiente resultado:
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/31974084/57197057-30d2b100-6f28-11e9-8ea8-1242042042dc.png"> </p>
 
 ## 2. Agrupamiento de Noticias por Similaridad
 
-Para este modelo se obtuvo el siguiente resultado:
+Se ingresa el **id** de la noticia a buscar:
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/31974084/57197238-9aec5580-6f2a-11e9-8d73-17997ca5c066.png"> </p>
+
+Y para este modelo se obtiene el siguiente resultado:
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/31974084/57197317-7644ad80-6f2b-11e9-961a-7a946c6e48a4.png"> </p>
