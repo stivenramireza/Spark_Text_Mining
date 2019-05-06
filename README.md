@@ -1,4 +1,4 @@
-# Proyecto 3 (Big Data) - Minería de Texto con Spark
+# Proyecto 3 - Minería de Texto con Spark
 
 ## Integrantes 
 
