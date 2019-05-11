@@ -2,7 +2,7 @@
 
 ## Integrantes 
 
-- Stiven Ramírez Arango - sramir70@eafit.edu.co - Video Sustentación: https://youtu.be/d84s1IOS86Q
+- Stiven Ramírez Arango - sramir70@eafit.edu.co - Video Sustentación: https://youtu.be/3Ob_ZexLR4s
 - Sebastián Ospina Cabarcas - sospin26@eafit.edu.co - Video Sustentación: https://bit.ly/2J00KnF
 - Camilo Suaza Gallego - csuazag@eafit.edu.co - Video Sustentación: https://youtu.be/OR5WCcMA_ls
 
